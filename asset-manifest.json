@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/mosad/static/css/main.caa6c2a0.chunk.css",
+    "main.js": "/mosad/static/js/main.8d2d5e7b.chunk.js",
+    "main.js.map": "/mosad/static/js/main.8d2d5e7b.chunk.js.map",
+    "runtime-main.js": "/mosad/static/js/runtime-main.fbd5ae32.js",
+    "runtime-main.js.map": "/mosad/static/js/runtime-main.fbd5ae32.js.map",
+    "static/js/2.152a7746.chunk.js": "/mosad/static/js/2.152a7746.chunk.js",
+    "static/js/2.152a7746.chunk.js.map": "/mosad/static/js/2.152a7746.chunk.js.map",
+    "index.html": "/mosad/index.html",
+    "static/css/main.caa6c2a0.chunk.css.map": "/mosad/static/css/main.caa6c2a0.chunk.css.map",
+    "static/js/2.152a7746.chunk.js.LICENSE.txt": "/mosad/static/js/2.152a7746.chunk.js.LICENSE.txt",
+    "static/media/h1.1d6b340c.svg": "/mosad/static/media/h1.1d6b340c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fbd5ae32.js",
+    "static/js/2.152a7746.chunk.js",
+    "static/css/main.caa6c2a0.chunk.css",
+    "static/js/main.8d2d5e7b.chunk.js"
+  ]
+}
